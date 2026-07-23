@@ -1,0 +1,6 @@
+{
+  "name": "Jagdev Medical Shop",
+  "description": "Your trusted medical store in Shakurabad, Bihar for genuine medicines, healthcare products, surgical supplies, and baby care essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
