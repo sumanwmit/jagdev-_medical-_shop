@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jagdev-medical-shop.vercel.app/sitemap.xml
